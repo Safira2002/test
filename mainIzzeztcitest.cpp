@@ -17,7 +17,7 @@ public:
 virtual const char* Greska(){
 return "Greska pri unosu datuma";
 }
-};
+};//komentar
 
 
 class student {
